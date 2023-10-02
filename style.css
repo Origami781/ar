@@ -1,0 +1,38 @@
+body{
+ font-family: 'Stint Ultra Condensed', cursive;
+ background-image:url("background.jpg");
+ background-size:cover;
+}
+
+canvas{
+margin-top:120px;    
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#coCoSsD{
+background-color:rgb(85, 255, 176);    
+}
+
+#magxD{
+width:63px;
+height:63px;    
+}
+
+#t{
+border-color:red;
+border-width:5px;
+border-style:solid;  
+border-radius:5px;
+width:30%  
+}
